@@ -1,0 +1,16 @@
+https://www.kaggle.com/tmdb/tmdb-movie-metadata/discussion/28576
+https://www.kaggle.com/tmdb/tmdb-movie-metadata/discussion/28576
+https://www.kaggle.com/aninda123/imdb-movie-analysis
+https://rpubs.com/Yiwen22/299015
+
+
+accuracy_score function-    http://scikit-learn.org/stable/modules/model_evaluation.html#accuracy-score
+cost_function for logistic regression - http://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+cost_function for SVM - http://scikit-learn.org/stable/modules/svm.html#svm-mathematical-formulation
+
+https://www.aaai.org/Papers/AAAI/2006/AAAI06-064.pdf
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8389394
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5967324
+http://scikit-learn.org/stable/modules/model_evaluation.html#accuracy-score
+https://towardsdatascience.com/understanding-data-science-classification-metrics-in-scikit-learn-in-python-3bc336865019
+https://machinelearningmastery.com/classification-accuracy-is-not-enough-more-performance-measures-you-can-use/
